@@ -9,7 +9,7 @@ body, html {
     background-size: cover;
 }
 p {
-    color: blue;
+    color: rgb(94, 255, 0);
     font-size: 18px;
 }
 .container{
