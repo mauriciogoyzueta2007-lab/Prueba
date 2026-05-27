@@ -1,8 +1,4 @@
 body, html {
-    p {
-    color: blue;
-    font-size: 18px;
-}
     font-family: Arial, Helvetica, sans-serif;
     height: 100%;
     width: 100vw;
@@ -11,6 +7,10 @@ body, html {
     align-items: center;
     background: url(FONDO.webp) center center;
     background-size: cover;
+}
+p {
+    color: blue;
+    font-size: 18px;
 }
 .container{
     text-align: center;
